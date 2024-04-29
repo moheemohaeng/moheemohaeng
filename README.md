@@ -1,4 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohee's%20GitHub!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
+
+💬Education : **Undergraduate Student in School of Software, Kwangwoon University**
+
+💬Career :
+- *23.03.02. ~ 23.10.31.*
+  - **S2W, AI Engineer, Intern [HOME](https://s2w.inc/)**
+
 ## 📞 Contact
 <a href="https://www.instagram.com/__mohee_mohaeng__/">
 <img src="https://img.shields.io/badge/__mohee_mohaeng__-FF6CFF?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/__mohee_mohaeng__/"
@@ -11,13 +18,14 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 ## ⚡ Skills 
-### Programming Languages 💻
+<div align=center>
+### Programming Languages
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
 
-### Tools 🧰
+### Tools 
 <span> 
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -33,9 +41,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     
 </span>
 
-### Data Mining 🗄️
-<block>
-  <span>
+### Data Mining
+<span>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
@@ -45,15 +52,14 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/Numpy-150458?style=flat&logo=Numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     <br> 
-  </span>
-</block>  
+</span>
 
-
+</div>
 
 ## 📑 Certificate
- - ADsP(Advanced Data Analytics Semi-Professional)
- - 정보처리기사(Engineer Information Processing)
- - 빅데이터분석기사(Engineer Big Data Analysis)
+ - **ADsP(Advanced Data Analytics Semi-Professional)**
+ - **정보처리기사(Engineer Information Processing)**
+ - **빅데이터분석기사(Engineer Big Data Analysis)**
 
 
 
