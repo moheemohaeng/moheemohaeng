@@ -4,7 +4,14 @@
 👨‍🎓Education : **B.S. in Information Convergence, Major in Data Science, Software, Kwangwoon University**
 
 📁Career :
-- *22.03.02. ~ 22.10.31.*
+- *Apr.2021 ~ Dec.2021*
+  - **Samsung Card Golden Bell School (Data Mining Education Program, Instructor, Assistant**
+  - **Taught middle school students the notion of big data and data mining through team games**
+- *Apr.2021 ~ Aug.2022*
+  - **D.Lab Code Academy, Programming Instructor**
+  - **Taught middle and elementary school students the basics of programming**
+  - **Covered Scratch, Python, C, Arduino, Microbit**
+- *Mar.2022 ~ Oct.2022*
   - **S2W, AI Engineer, Intern [HOME](https://s2w.inc/)**
 
 ## 📞 Contact
