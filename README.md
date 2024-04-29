@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Im%20Mohee!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
-## Skills 
+## Skills 🤔
 ### Programming Languages 💻
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
