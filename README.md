@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Im%20Mohee!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
-## Skills 🤔
+## 🤔 Skills 
 ### Programming Languages 💻
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
@@ -33,12 +33,12 @@
 
 
 
-## GitHub Status 📑
+## 📑 GitHub Status 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moheemohaeng&show_icons=true)
 
 
 
-## Solve.ac 🏅
+## 🏅 Solved.ac 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moheemohaeng)](https://solved.ac/moheemohaeng/)
 
 
