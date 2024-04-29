@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohee's%20GitHub!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
 ## 📢 Introduction - DAE HEE KIM
-👨‍🎓**Education** : **B.S. in Information Convergence, Major in Data Science, Software, Kwangwoon University**
+👨‍🎓**Education** : **B.S. in Information Convergence, double Majoring in Data Science, Software, Kwangwoon University**
 
 📁**Career** :
 - **Apr.2021 ~ Dec.2021**
