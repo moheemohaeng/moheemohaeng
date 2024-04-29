@@ -1,5 +1,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Im%20Mohee!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
+## 📞 Contact
+<a href="moheemohaeng@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="qhtmaldnj@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+<a href="https://instagram.com/__mohee_mohaeng__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 ## 🤔 Skills 
 ### Programming Languages 💻
 <span> 
