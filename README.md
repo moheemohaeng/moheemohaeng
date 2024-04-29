@@ -40,9 +40,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat&logo=Matplotlib&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Numpy-150458?style=flat&logo=Numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     <br> 
   </span>
