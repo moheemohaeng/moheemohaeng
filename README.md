@@ -5,7 +5,7 @@
 
 📁**Career** :
 - **Apr.2021 ~ Dec.2021**
-  - **Samsung Card Golden Bell School (Data Mining Education Program, Instructor, Assistant**
+  - **Samsung Card Golden Bell School (Data Mining Education Program), Instructor, Assistant**
   - **Taught middle school students the notion of big data and data mining through team games**
 - **Apr.2021 ~ Aug.2022**
   - **D.Lab Code Academy, Programming Instructor**
