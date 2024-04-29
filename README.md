@@ -31,7 +31,7 @@
   </span>
 </block>  
 
-## My GITHUB Status 📑
+## GITHUB Status 📑
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moheemohaeng&show_icons=true)
 
 ## Solve.ac 🏅
