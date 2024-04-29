@@ -7,7 +7,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="mailto:moheemohaeng@gmail.com">
  <img src="https://img.shields.io/badge/moheemohaeng@gmail.com-78222D?style=flat&logo=Gmail&logoColor=white&link=moheemohaeng@gmail.com"/></a><br>
 <a href="qhtmaldnj@naver.com">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/qhtmaldnj@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 
 ## 🤔 Skills 
 ### Programming Languages 💻
