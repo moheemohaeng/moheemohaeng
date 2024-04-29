@@ -50,11 +50,14 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 
-## 🗒️ Certificate
+## 📑 Certificate
+ - ADsP(Advanced Data Analytics Semi-Professional)
+ - 정보처리기사(Engineer Information Processing)
+ - 빅데이터분석기사(Engineer Big Data Analysis)
 
 
 
-## 📑 GitHub Status 
+## 🗒️ GitHub Status 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moheemohaeng&show_icons=true)
 
 
