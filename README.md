@@ -1,13 +1,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Im%20Mohee!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
-## Skills
-### Programming Languages
+## Skills 
+### Programming Languages 💻
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
 
-### Tools
+### Tools 🧰
 <span> 
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
 </span>
 
-### Data Mining Skills
+### Data Mining Skills 🗄️
 <block>
   <span>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
