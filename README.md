@@ -7,6 +7,9 @@
   - **S2W, AI Engineer, Intern [HOME](https://s2w.inc/)**
 
 ## 📞 Contact
+
+<div align=center>
+
 <a href="https://www.instagram.com/__mohee_mohaeng__/">
 <img src="https://img.shields.io/badge/__mohee_mohaeng__-FF6CFF?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/__mohee_mohaeng__/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
@@ -15,7 +18,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="qhtmaldnj@naver.com">
 <img src="https://img.shields.io/badge/qhtmaldnj@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 
-
+</div>
 
 ## ⚡ Skills 
 <div align=center>
