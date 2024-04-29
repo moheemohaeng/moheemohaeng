@@ -1,5 +1,5 @@
 ### Hi there 👋
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!mohee!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi! Mohee!&fontAlign=80&fontAlignY=40&color=gradient)
 <!--
 **moheemohaeng/moheemohaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
