@@ -2,7 +2,7 @@
 
 ## 📞 Contact
 <a href="https://www.instagram.com/__mohee_mohaeng__/">
-<img src="https://img.shields.io/badge/__mohee_mohaeng__-FFB2F5?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/__mohee_mohaeng__/"
+<img src="https://img.shields.io/badge/__mohee_mohaeng__-FF6CFF?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/__mohee_mohaeng__/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="mailto:moheemohaeng@gmail.com">
  <img src="https://img.shields.io/badge/moheemohaeng@gmail.com-78222D?style=flat&logo=Gmail&logoColor=white&link=moheemohaeng@gmail.com"/></a><br>
