@@ -30,7 +30,7 @@
     
 </span>
 
-### Data Mining Skills 🗄️
+### Data Mining 🗄️
 <block>
   <span>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
