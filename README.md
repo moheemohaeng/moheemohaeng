@@ -1,8 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohee's%20GitHub!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
+## 📢 Introduction
 👨‍🎓Education : **B.S. in Information Convergence, Major in Data Science, Software, Kwangwoon University**
 
-🧭Career :
+📁Career :
 - *22.03.02. ~ 22.10.31.*
   - **S2W, AI Engineer, Intern [HOME](https://s2w.inc/)**
 
