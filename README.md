@@ -10,7 +10,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 
-## 🤔 Skills 
+## ⚡ Skills 
 ### Programming Languages 💻
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
