@@ -26,10 +26,17 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
 
+### IDE
+<span>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+</span>
+
 ### Tools 
 <span> 
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
@@ -37,12 +44,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat&logo=mongoDB&locoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
     
 </span>
 
-### Data Mining
+### Data Tools
 <span>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
@@ -52,7 +57,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat&logo=Matplotlib&logoColor=black"/>
     <img src="https://img.shields.io/badge/Numpy-150458?style=flat&logo=Numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
-    <br> 
+</span>
+
+### Team Collaboration
+<span>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </span>
 
 </div>
