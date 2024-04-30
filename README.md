@@ -45,8 +45,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ### IDE
 <span>
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 </span>
 
 ### Tools 
