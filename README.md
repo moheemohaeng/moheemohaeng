@@ -3,6 +3,12 @@
 ## 📢 Introduction - DAE HEE KIM
 👨‍🎓**Education** : **B.S. in Information Convergence, double Major in Data Science, Software, Kwangwoon University**
 
+🎲**Interest :**
++ **Machine Learning**
++ **Data Mining**
++ **Recommendation System**
++ **Anomaly Detection**
+
 📁**Career** :
 - **Apr.2021 ~ Dec.2021**
   - **Samsung Card Golden Bell School (Data Mining Education Program), Instructor, Assistant**
