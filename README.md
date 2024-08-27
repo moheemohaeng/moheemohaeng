@@ -61,7 +61,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat&logo=mongoDB&locoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </span>
 
 ### Data Tools
