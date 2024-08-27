@@ -88,6 +88,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
  - **ADsP(Advanced Data Analytics Semi-Professional)**
  - **정보처리기사(Engineer Information Processing)**
  - **빅데이터분석기사(Engineer Big Data Analysis)**
+ - **SQLD(Structured Query Language Developer)**
 
 
 
