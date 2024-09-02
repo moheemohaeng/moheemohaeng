@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohee's%20GitHub!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
+![image](https://github.com/user-attachments/assets/4fd390a0-37af-4552-850d-ab1d00e84f07)![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohee's%20GitHub!%20%20&fontAlign=60&fontAlignY=40&color=gradient)
 
 ## 📢 Introduction - DAE HEE KIM
 👨‍🎓**Education** : **B.S. in Information Convergence, Kwangwoon University**
@@ -7,6 +7,7 @@
 🎲**Interest :**
 + **Machine Learning**
 + **Data Mining**
++ **Visualization**
 + **Recommendation System**
 + **Anomaly Detection**
 
